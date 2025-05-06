@@ -50,4 +50,4 @@ Uma calculadora simples desenvolvida com **HTML**, **CSS** e **JavaScript**, com
 
 1. Clone o repositório:
    ```bash
-   git clone http://127.0.0.1:5500/index.html
+   git clone (https://anameloo.github.io/Calculator-Mengo/)
