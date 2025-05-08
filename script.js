@@ -11,7 +11,7 @@ function adicionar(valor) {
 
 
     // Parar o som ao limpar
-    const audio = document.getElementById('audioGol');
+    const audio = document.getElementById('audiomengo');
     audio.pause();
     audio.currentTime = 0;
   }
@@ -23,7 +23,7 @@ function adicionar(valor) {
       // Usa a função eval para calcular a expressão matemática digitada
       display.value = eval(display.value);
 
-      const audio = document.getElementById('audioGol');
+      const audio = document.getElementById('audiomengo');
     audio.play();
       
 
