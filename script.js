@@ -3,7 +3,6 @@ function adicionar(valor) {
     const display = document.getElementById('display');
     display.value += valor; // Adiciona o valor no final do texto atual
   
-
 }  
   
   // Função para limpar o visor
